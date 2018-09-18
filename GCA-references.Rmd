@@ -1,0 +1,3 @@
+Singer, Judith D., John B. Willett, and John B. Willett. Applied longitudinal data analysis: Modeling change and event occurrence. Oxford university press, 2003.
+
+Mirman, Daniel, James A. Dixon, and James S. Magnuson. "Statistical and computational models of the visual world paradigm: Growth curves and individual differences." Journal of memory and language 59.4 (2008): 475-494.
