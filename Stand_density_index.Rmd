@@ -1,34 +1,28 @@
 Stand density index
-From Wikipedia, the free encyclopedia
+==============================================
 
+Stand density index (SDI; also known as Reineke's Stand Density Index after its founder) is a measure of the stocking of a stand of trees based on the number of trees per unit area and diameter at breast height (DBH) of the tree of average basal area, also known as the quadratic mean diameter. It may also be defined as the degree of crowding within stocked areas, using various growing space ratios based on crown length or diameter, tree height or diameter, and spacing. 
 
-Jump to navigation
-Jump to search
-Stand density index (SDI; also known as Reineke's Stand Density Index[1] after its founder) is a measure of the stocking of a stand of trees based on the number of trees per unit area and diameter at breast height (DBH) of the tree of average basal area, also known as the quadratic mean diameter. It may also be defined as the degree of crowding within stocked areas, using various growing space ratios based on crown length or diameter, tree height or diameter, and spacing. Stand density index is usually well correlated with stand volume and growth, and several variable-density yield tables have been created using it. Basal area, however, is usually satisfactory as a measure of stand density index and because it is easier to calculate it is usually preferred over SDI.[2] Stand density index is also the basis for Stand density management diagrams. 
+Stand density index is usually well correlated with stand volume and growth, and several variable-density yield tables have been created using it. Basal area, however, is usually satisfactory as a measure of stand density index and because it is easier to calculate it is usually preferred over SDI.Stand density index is also the basis for Stand density management diagrams. 
 
-Contents
-1
-Use
-2
-Calculating stand density index
-3
-See also
-4
-References
-Use[edit]
-It may also be defined as the degree of crowding within stocked areas, using various growing space ratios based on crown length or diameter, tree height or diameter, and spacing. Stand density index is usually well correlated with stand volume and growth, and several variable-density yield tables have been created using it. Basal area, however, is usually satisfactory as a measure of stand density index and because it is easier to calculate it is usually preferred over SDI.[3] 
+### Use
+It may also be defined as the degree of crowding within stocked areas, using various growing space ratios based on crown length or diameter, tree height or diameter, and spacing.
+
+Stand density index is usually well correlated with stand volume and growth, and several variable-density yield tables have been created using it. Basal area, however, is usually satisfactory as a measure of stand density index and because it is easier to calculate it is usually preferred over SDI.
+
 Stockability figures are available from the SDI. For example Cochrane et al. 1994 (full ref missing) in Western Oregon gave an (maximum?) SDI of 277 for lodgepole pine and 416 for subalpine fir. This meant 277 lodgepole pines at 10 inches (250 mm) diameter at DBH per acre in western Oregon on a typical site. However if a mixed stand was wanted, which is most likely to reduce risk of bark beetles or some other disturbance, then adjustments need to be made to the SDIs. This can be done in several ways such as weighting. 
-Calculating stand density index[edit]
+
+### Calculating stand density index
 Plotting the logarithm of the number of trees per acre against the logarithm of the quadratic mean diameter (or the dbh of the tree of average basal area) of maximally stocked stands generally results in a straight-line relationship.[4] In most cases the line is used to define the limit of maximum stocking. This negatively-sloped line is referred to as the self-thinning line or the maximum-density line. 
-The maximum density line is expressed by the equation: log10N = -1.605(log10D) + k 
+The maximum density line is expressed by the equation:\[ log10N = -1.605(log10D) + k\] 
 Where N = number of trees per acre D = dbh of the tree of average basal area k = a constant varying with the species 
 When the quadratic mean diameter equals 10 inches (250 mm), the log of N equals the log of the stand density index. 
-In equation form: log10SDI = -1.605(1) + k 
+In equation form: \[log10SDI = -1.605(1) + k \]
 Which means that: k = log10SDI + 1.605 
 Substituting the value of k above into the reference-curve formula gives the equation: 
-log10N = log10SDI + 1.605 - 1.605 log10D 
+\[log10N = log10SDI + 1.605 - 1.605 log10D \]
 This equation can be rewritten as: 
-log10SDI = log10N + 1.605 log10D - 1.605 
+\[log10SDI = log10N + 1.605 log10D - 1.605 \]
 The above equation is an expression for computing the stand density index from the number of trees per acre and the diameter of the tree of average basal area. 
 Assume that a stand with basal area of 150 square feet (14 m2) and 400 trees per acre is measured. The dbh of the tree of average basal area D is: 
 150 400 × .005454 = 8.29 {\displaystyle {\sqrt {\frac {150}{400\times .005454}}}=8.29} 
@@ -38,5 +32,5 @@ log10SDI = log10(400) + 1.605log10(8.29) - 1.605 = 2.47
 SDI = 102.47 
 SDI = 295 
 The computed value of SDI is often compared to the species maximum to determine the relative "stand density" or stocking of the stand. 
-See also[edit]
-Site index
+
+
